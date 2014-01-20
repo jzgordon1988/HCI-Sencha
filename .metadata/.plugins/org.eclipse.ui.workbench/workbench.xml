@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="24" version="2.0">
+<workbenchAdvisor/>
+<window height="705" width="1200" x="130" y="126">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="137" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="168" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.sass" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1390240494356" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.html" name="index.html" partName="index.html" title="index.html" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2052" selectionTopPixel="542"/>
+</editor>
+<editor id="com.aptana.editor.js" name="app.js" partName="app.js" title="app.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="621" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="Main.js" partName="Main.js | view" title="Main.js | view" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Main.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Main.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="277" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="Home.js" partName="Home.js" title="Home.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Home.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Home.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="526" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="Contact.js" partName="Contact.js" title="Contact.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Contact.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Contact.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="143" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="Blog.js" partName="Blog.js" title="Blog.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Blog.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Blog.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="206" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="Main.js" partName="Main.js | controller" title="Main.js | controller" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\controller\Main.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/controller/Main.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="489" selectionTopPixel="17"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.sass" name="app.scss" partName="app.scss" title="app.scss" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\resources\sass\app.scss" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/resources/sass/app.scss"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets"/>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal"/>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="com.aptana.explorer.view" partName="App Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled=""/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.editor.sass" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="com.aptana.explorer.view"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.aptana.terminal.views.terminal"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="com.aptana.samples.ui.SamplesView"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="com.aptana.explorer.view" label="App Explorer"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="882" ratioRight="294" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19982994" ratioLeft="235" ratioRight="941" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.75" ratioLeft="576" ratioRight="192" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@539a92" ratio="0.75" ratioLeft="576" ratioRight="192" relationship="4" relative="left">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="Snippets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Main.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Home.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Contact.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Blog.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/controller/Main.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.sass" uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/resources/sass/app.scss"/>
+</editors>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="31" y="0"/>
+</item>
+<item historyLabel="Home.js" index="3">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="Main.js | view" index="2">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="app.js" index="1">
+<position info="not_deleted" x="726" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="2052" y="0"/>
+</item>
+<item historyLabel="app.js" index="1">
+<position info="not_deleted" x="1486" y="0"/>
+</item>
+<item historyLabel="Main.js | view" index="2">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="Home.js" index="3">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="Home.js" index="3">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="Home.js" index="3">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="Home.js" index="3">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="145" y="0"/>
+</item>
+<item historyLabel="Home.js" index="3">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="154" y="0"/>
+</item>
+<item historyLabel="Home.js" index="3">
+<position info="not_deleted" x="526" y="0"/>
+</item>
+<item historyLabel="Main.js | view" index="2">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="154" y="0"/>
+</item>
+<item historyLabel="Main.js | view" index="2">
+<position info="not_deleted" x="89" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="154" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="331" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="754" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="749" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="702" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="741" y="0"/>
+</item>
+<item historyLabel="Contact.js" index="4">
+<position info="not_deleted" x="143" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="543" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="284" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="532" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="206" y="0"/>
+</item>
+<item historyLabel="app.js" index="1">
+<position info="not_deleted" x="734" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="206" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="76" y="0"/>
+</item>
+<item historyLabel="Main.js | view" index="2">
+<position info="not_deleted" x="277" y="0"/>
+</item>
+<item historyLabel="app.js" index="1">
+<position info="not_deleted" x="734" y="0"/>
+</item>
+<item historyLabel="app.js" index="1">
+<position info="not_deleted" x="621" y="0"/>
+</item>
+<item historyLabel="Main.js | view" index="2">
+<position info="not_deleted" x="277" y="0"/>
+</item>
+<item historyLabel="Main.js | controller" index="6">
+<position info="not_deleted" x="495" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="28" y="0"/>
+</item>
+<item historyLabel="Main.js | controller" index="6">
+<position info="not_deleted" x="495" y="0"/>
+</item>
+<item historyLabel="Main.js | controller" index="6">
+<position info="not_deleted" x="306" y="0"/>
+</item>
+<item historyLabel="Main.js | controller" index="6">
+<position/>
+</item>
+<item historyLabel="Main.js | controller" index="6">
+<position info="not_deleted" x="489" y="0"/>
+</item>
+<item historyLabel="Main.js | controller" index="6">
+<position info="not_deleted" x="328" y="0"/>
+</item>
+<item historyLabel="Main.js | controller" index="6">
+<position info="not_deleted" x="489" y="0"/>
+</item>
+<item historyLabel="Blog.js" index="5">
+<position info="not_deleted" x="206" y="0"/>
+</item>
+<item active="true" historyLabel="app.scss" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.sass" name="app.scss" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\resources\sass\app.scss">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/resources/sass/app.scss"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="Main.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\controller\Main.js">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/controller/Main.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="Blog.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Blog.js">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Blog.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="Contact.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Contact.js">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Contact.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="Home.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Home.js">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Home.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="Main.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app\view\Main.js">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app/view/Main.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="app.js" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\app.js">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/app.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="C:\Users\Justin\Desktop\sencha-touch-2.3.1a-commercial\GS\index.html">
+<persistable uri="file:/C:/Users/Justin/Desktop/sencha-touch-2.3.1a-commercial/GS/index.html"/>
+</file>
+</mruList>
+</workbench>
