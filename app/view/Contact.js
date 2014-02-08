@@ -1,4 +1,4 @@
-Ext.define('GS.view.Contact', {
+Ext.define('HCI.view.Contact', {
 	extend: 'Ext.form.Panel',
 	xtype: 'contactform',
 	
@@ -16,7 +16,7 @@ Ext.define('GS.view.Contact', {
 			{
 				xtype: 'fieldset',
 				title: 'Contact Us',
-				instructions: '(Email Address is optional)',
+				instructions: 'All fields are required.',
 			
 				items: [
 					{

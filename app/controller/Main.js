@@ -1,24 +1,20 @@
-Ext.define('GS.controller.Main', {
+Ext.define('HCI.controller.Main', {
     extend: 'Ext.app.Controller',
     
     config: {
         refs: {
-            blog: 'blog'
+            main: 'mainpanel'
         },
         control: {
-            'blog list': {
-            	itemtap: 'showPost'
+            'eventsList': {
+            	disclose: function() { console.log('disclose details')}
             }
         }
     },
     
-    showPost: function(list, index, element, record) {
-    	this.getBlog().push({
-    		xtype: 'panel',
-    		title: record.get('title'),
-    		html: record.get('content'),
-    		scrollable: true,
-    		styleHtmlContent: true
-    	});
+    showDetail : function(list, record) {
+        this.getMain().push({
+            xtype: 'eventDetails'
+        });
     }
 });

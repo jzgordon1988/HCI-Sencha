@@ -13,13 +13,15 @@
 Ext.application({
 	controllers: ["Main"],
 	
-    name: 'GS',
+    name: 'HCI',
 
     requires: [
         'Ext.MessageBox'
     ],
 
-    views: ['Main', 'Home', 'Contact', 'Blog'],
+    views: ['Main', 'Home', 'Contact', 'ProjectsList', 'InternsList', 'EventsList', 'EventDetails'],
+    stores: ['Events', 'Interns', 'Projects'],
+    models: ['Event', 'Intern', 'Project'],
 
     icon: {
         '57': 'resources/icons/Icon.png',
@@ -44,7 +46,7 @@ Ext.application({
         Ext.fly('appLoadingIndicator').destroy();
 
         // Initialize the main view
-        Ext.Viewport.add(Ext.create('GS.view.Main'));
+        Ext.Viewport.add(Ext.create('HCI.view.Main'));
     },
 
     onUpdated: function() {

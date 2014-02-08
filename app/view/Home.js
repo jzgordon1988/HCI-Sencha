@@ -1,4 +1,4 @@
-Ext.define('GS.view.Home', {
+Ext.define('HCI.view.Home', {
 	extend: 'Ext.Panel',
 	xtype: 'homepanel',
 	
@@ -10,10 +10,10 @@ Ext.define('GS.view.Home', {
 		styleHtmlContent: true,
 		
 		html: [
-        	'<img src="http://staging.sencha.com/img/sencha.png" />',
-            '<h1>Welcome to Sencha Touch</h1>',
-            "<p>You're creating the Getting Started app. This demonstrates how ",
-            "to use tabs, lists, and forms to create a simple app</p>",
+        	'<img src="Images/HCI-Image.gif" alt="Howard Consulting Logo" height="290px" width="290px" />',
+            '<h1>Welcome to Howard Consulting and Investments</h1>',
+            "<p>Welcome to the Howard Consulting and Investments Homepage. ",
+            "Click any of the tabs below to navigate to other pages.</p>",
             '<h2>Sencha Touch</h2>'
         ].join("")
 

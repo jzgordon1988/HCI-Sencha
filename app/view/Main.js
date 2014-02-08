@@ -1,6 +1,11 @@
-Ext.define('GS.view.Main', {
+Ext.define('HCI.view.Main', {
     extend: 'Ext.tab.Panel',
-    requires: ['Ext.TitleBar'],
+    xtype: 'mainpanel',
+    requires: [
+    	'Ext.TitleBar',
+    	'HCI.view.EventsList',
+    	'HCI.view.EventDetails'
+    	],
     
     config: {
         tabBarPosition: 'bottom',
@@ -10,7 +15,13 @@ Ext.define('GS.view.Main', {
             	xtype: 'homepanel'
             },
             {
-            	xtype: 'blog'
+            	xtype: 'eventsList'
+            },
+            {
+            	xtype: 'internsList'
+            },
+            {
+            	xtype: 'projectsList'
             },
             {
             	xtype: 'contactform'
